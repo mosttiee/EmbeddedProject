@@ -1,5 +1,5 @@
-# es_project
-Light control system
+# embedded project
+Heart rate monitor
 
 ## Usage
 ```
